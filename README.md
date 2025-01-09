@@ -1,7 +1,7 @@
 ## Greeting👋, I'm Hex.
 
 ### 🌾 </ Profile >
-```lua
+```javascript
 const Profile = {
   aboutme: {
     name: ["Sin", "SINETRIX Ch."],
